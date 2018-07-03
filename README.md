@@ -1,6 +1,6 @@
 ## Installation
 
-In your project
+THIS IS IN WIP!!!
 
 ```shell
 npm install --save react-user-photo-cropper
